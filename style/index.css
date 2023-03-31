@@ -130,7 +130,7 @@ input{
     padding: 10px;
 }
 .info__id::-webkit-input-placeholder{
-    background-image: url("./user.png");
+    background-image: url("/image/user.png");
     background-size: contain;
     background-position: 1px center;
     background-repeat: no-repeat;
@@ -139,7 +139,7 @@ input{
     padding-left: 20px;
 }
 .info__pw::-webkit-input-placeholder{
-    background-image: url("./lock.png");
+    background-image: url("/image/lock.png");
     background-size: contain;
     background-position: 1px center;
     background-repeat: no-repeat;
